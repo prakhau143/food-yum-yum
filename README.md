@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![image](https://github.com/user-attachments/assets/17e7d609-13c2-4f3d-816a-c9fd40112f13)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)!
+### conclusion
+A description of the background and context of the project and its relation to workalready done in the area.Made statement of the aims and objectives of the project.The description of Purpose, Scope, and applicability.We define the problem on which we are working in the project.We describe the requirement Specifications of the system and the actions thatcan be done on these things.We understand the problem domain and produce a model of the system, whichdescribes operations that can be performed on the system.We included features and operations in detail, including screen layouts.We designed user interface and security issues related to system.Finally the system is implemented and tested according to test cases.
+
